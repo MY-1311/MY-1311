@@ -4,7 +4,7 @@
 
 I build production software across SaaS, web, mobile, and AI-enabled applications, with experience taking products from early concepts through architecture, development, integrations, deployment, and ongoing iteration.
 
-My background includes working as a founder, co-founder, technical consultant, and product engineer across startup environments.
+I’ve built and led software products across startup environments, from early-stage architecture and development through launch, integrations, and production operations
 
 ## What I Work On
 
