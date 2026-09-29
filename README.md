@@ -23,7 +23,7 @@ My background includes working as a founder, co-founder, technical consultant, a
 **Mobile:** React Native  
 **Data:** PostgreSQL, MySQL, MongoDB, Supabase  
 **Infrastructure:** AWS, Docker, Vercel, Cloudflare  
-**AI:** LLM and Generative AI product integrations
+**AI:** LLM applications, Generative AI integrations, AI-powered workflows, and production AI features
 
 ## Connect
 
